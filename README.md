@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **web base EMI management system**
 
-- 🌱 I’m currently learning **Typescript**
+- 🌱 I’m currently learning **Javascript**
 
 - 💬 Ask me about **HTML and CSS**
 
