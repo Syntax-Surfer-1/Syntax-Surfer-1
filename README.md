@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yax Patel</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on **web base EMI management system**
+- 🔭 I’m currently working on **ESP32-based system for object detection**
 
 - 🌱 I’m currently learning **Typescript**
 
